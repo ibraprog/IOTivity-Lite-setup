@@ -33,7 +33,7 @@ sudo apt-get -y install git nano automake
 #
 # clone the repo with all the scripts
 #
-git clone https://github.com/openconnectivity/IOTivity-Lite-setup.git
+git clone https://github.com/ibraprog/IOTivity-Lite-setup.git
 #
 # go to the folder where the installation scripts are downloaded
 #
